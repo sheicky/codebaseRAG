@@ -2,7 +2,8 @@
 
 # 🤖 CodeChat AI
 
-<img src="https://your-logo-url.png" alt="CodeChat AI Logo" width="200"/>
+![image](https://github.com/user-attachments/assets/0ece57e2-39df-498f-a5b9-19deee0dca56)
+
 
 [![GitHub license](https://img.shields.io/github/license/sheick/codechat-ai)](https://github.com/sheick/codechat-ai/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
