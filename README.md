@@ -23,7 +23,7 @@ _Your AI-Powered Code Companion for Intelligent Repository Analysis_
 CodeChat AI revolutionizes code understanding by combining the power of RAG (Retrieval-Augmented Generation) with advanced language models. It enables developers to have meaningful conversations about their codebase while maintaining deep context across multiple repositories.
 
 <div align="center">
-<img src="https://your-demo-gif-url.gif" alt="CodeChat AI Demo" width="600"/>
+<img src="https://your-demo-gif-url.gif" alt="Youtube Demo" width="600"/>
 </div>
 
 ## ✨ Key Features
