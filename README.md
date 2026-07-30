@@ -63,8 +63,8 @@ Before you begin, ensure you have:
 
 ```bash
 # Clone the repository
-git clone https://github.com/sheicky/codechat-ai.git
-cd codechat-ai
+git clone https://github.com/sheicky/codebaseRAG.git
+cd codebaseRAG
 
 # Create and activate virtual environment
 python -m venv venv
